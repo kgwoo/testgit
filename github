@@ -1,0 +1,23 @@
+GitHub
+
+1. 일반인도 사용할 수 있는 버전관리 프로그램을 만들고 싶다는 사업계획에서 시작 됨.
+대표적으로 CSV, SVN, GIT이 있다.
+현시점에서 가장 많이 쓰인 버전 관리 프로그램은 Git이다.
+
+2. git (오픈소스 생태계 위에서 개발 됨)
+
+1) Git Client : git command line, git source tree, git hub  desktop 등 여러가지 Git client가 존재한다.
+
+2) Git Server(깃 원격 저장소) : 대표적으로 가장 중요하고 가장 유명한 것(GitHub.com)
+ 
+ 장점: 내가 쓰고 싶은 client와 Server를 선택할 수 있다.
+ 단점: 사용이 어려울 수 있다.
+ 
+ 
+ 3) github를 알아야 되는 이유
+ 대부분의 개발자는 github를 사용하고 있으며, 엄청나게 많은 오픈소스 코드들이 github에 저장되어 있다.
+
+
+
+
+* git init
